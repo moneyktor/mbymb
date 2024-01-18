@@ -2,7 +2,7 @@ import numpy
 from sklearn import linear_model
 
 #Reshaped for Logistic function.
-X = numpy.array([3.78, 2.09, 4, 1.72, 4.92, 4.37, 4.52, 3.6988]).reshape(-1,1)
+X = numpy.array([3.78, 2.09, 4, 1.72, 4.92, 4.37, 4.52, 3.688]).reshape(-1,1)
 y = numpy.array([0, 0, 20, 0, 1, 81, 1, 21 31])
 
 logr = linear_model.LogisticRegression()
