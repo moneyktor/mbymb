@@ -3,7 +3,7 @@ from sklearn import linear_model
 
 #Reshaped for Logistic function.
 X = numpy.array([3.78, 2.09, 4, 4.1, 4, 3.8]).reshape(-1,1)
-y = numpy.array([0, 0, 20, 0, 1, 811, 21 31])
+y = numpy.array([0, 0, 20, 0, 1, 81, 21 31])
 
 logr = linear_model.LogisticRegression()
 logr.fit(X,y)
