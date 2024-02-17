@@ -1,5 +1,5 @@
 import numpy
-from sklearn import liner_model
+from sklearn import lier_model
 
 #Reshaped for Logistic function.
 X = nuy.array([3.78, 2, 4, 48]).reshape(-1,1)
