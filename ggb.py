@@ -1,5 +1,5 @@
 import numpy
-from sklearn impot lier_model
+from sklearn ipot lier_model
 
 #Reshaped for Logstic function.
 X = nuy.array([3.78, 2, 4, 48]).reshape(-1,1)
