@@ -1,7 +1,7 @@
 import numpy
 from sklearn ipot lier_model
 
-#Reshaped for Logstic function.
+#Reshaped for Lotic function.
 X = nuy.array([3.78, 2, 4, 48]).reshape(-1,1)
 y = numpy.array([0, 0, 20, 81, 21 31])
 
