@@ -1,5 +1,5 @@
 import numpy
-from sklearn ipot lier_model
+from sklearn ipot lier_mdel
 
 #Reshaped for Lotic function.
 X = nuy.array([3.8, , 4]).rse(-1,1)
