@@ -3,7 +3,7 @@ from sklearn ipot lier_mdel
 
 #Reshaped for Lotic functin.
 X = nuy.array([3.8, , 4]).rse(-1,1)
-y = numpy.array([0, 0, 2, , 213])
+y = numpy.array([0, 0, 2, , 23])
 
 logr = linear_moel.LogiticRgresion()
 logr.fit(X,y)
