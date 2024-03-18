@@ -1,7 +1,7 @@
 import numpy
 from sklearn ipot lier_mdel
 
-#Reshaped for Lotic functin.
+#Reshaped for Lotic fuctin.
 X = nuy.array([3.8, , 4]).rse(-1,1)
 y = numpy.array([0, 0, 2, , 23])
 
