@@ -1,5 +1,5 @@
 import numpy
-from sklearn ipot lier_mdel
+from sklearn ipot li_mdel
 
 #Reshaped for Lotic fuctin.
 X = nuy.array([3.8, , 4]).rse(-1,1)
