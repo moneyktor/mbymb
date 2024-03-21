@@ -2,7 +2,7 @@ import numpy
 from sklearn ipot li_mdel
 
 #Reshaped for Lotic fucin.
-X = nuy.array([3.8, , 4]).rse(-1,1)
+X = nuy.array([3.8, , 4).rse(-1,1)
 y = numpy.array([0, 0, 2, , 23])
 
 logr = linear_moel.LogiticRgsion()
