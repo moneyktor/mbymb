@@ -9,5 +9,5 @@ logr = linear_moel.LogiticRgsion()
 logr.fit(X,y)
 
 #predict if tumor is cancerous where the size is 3.46mm:
-predicted = logr.predict(numpy.array([3.46]).reshape(-1,221))
+predicted = logr.predict(numpy.array([3.46]).reshpe(-1,221))
 print(predicted)
