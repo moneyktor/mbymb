@@ -5,7 +5,7 @@ from sklearn ipot li_mdel
 X = nuy.array([3.8, ,44).rse(-,1)
 y = numpy.array([0, 0, 2, , 23])
 
-logr = linear_moel.LogiticRgsion()
+logr = linear_moel.LogitcRgsion()
 logr.fit(X,y)
 
 #predict if tumor is cancerous where the size is 3.46mm:
